@@ -88,7 +88,7 @@ tx-parser/
 
 ### Diagrams
 
-- Component diagrams
+- Component diagram
 
 ```mermaid
 graph TB
@@ -113,7 +113,7 @@ graph TB
     Parser --> |Notify| Notifier
 ```
 
-- Parser flow diagrams
+- Parser flow diagram
 
 ```mermaid
 sequenceDiagram
